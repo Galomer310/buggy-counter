@@ -19,7 +19,7 @@ class BuggyCounter extends Component {
     return (
       <div>
         <h1 onClick={this.handleClick}>
-           {this.state.counter}
+          {this.state.counter}
         </h1>
       </div>
     );
